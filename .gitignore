@@ -1,0 +1,11 @@
+# Fitxers temporals
+*.tmp
+*.log
+
+# Fitxers del sistema
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
