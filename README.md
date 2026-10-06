@@ -38,3 +38,4 @@ Cada Pull Request haurà de ser revisat per un altre membre de l'equip abans de 
 ## Funcionalitats
 
 Les funcionalitats desenvolupades s'aniran afegint a continuació durant el desenvolupament del projecte.
+- Salim Moro
