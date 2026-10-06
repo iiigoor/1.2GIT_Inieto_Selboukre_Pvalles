@@ -38,3 +38,10 @@ Cada Pull Request haurà de ser revisat per un altre membre de l'equip abans de 
 ## Funcionalitats
 
 Les funcionalitats desenvolupades s'aniran afegint a continuació durant el desenvolupament del projecte.
+
+
+## Canvi 1 - Igor
+
+- Branca: `canvi/igor-01`
+- Descripció: Primera modificació del projecte realitzada per Igor.
+- Data i hora: 06/10/2026
