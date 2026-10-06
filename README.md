@@ -50,3 +50,9 @@ Les funcionalitats desenvolupades s'aniran afegint a continuació durant el dese
 - Branca: `canvi/igor-02`
 - Descripció: Segona modificació del projecte realitzada per Igor.
 - Data i hora: 06/10/2026
+
+## Canvi 1 - Salim
+
+- Branca: `canvi/salim-01`
+- Descripció: Primera modificació del projecte realitzada per Salim.
+- Data i hora: 06/10/2026
